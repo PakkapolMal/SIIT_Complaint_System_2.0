@@ -2,6 +2,9 @@
 
 A web-based complaint tracking and management system designed for SIIT students and administrators. This application allows students to file complaints or suggestions and track their status, while administrators can review, update, and resolve issues efficiently.
 
+🧑‍💻 Team & Contribution
+Project by: Thanutch Mel Pholsukcharoen, Pakkapol Maluangnont, and Phunyaphat Vijitrapornphan
+
 🚀 Features
 
 📊 Overall
